@@ -1,0 +1,30 @@
+OS001,1,Which of the following Operating System does not implement multitasking truly?,Windows 98,Windows NT,Windows XP,MS DOS,MS DOS,A
+OS001,2,What program runs first after computer is booted and loading GUI?,Desktop Manager,File Manager,Windows Explorer,Authentication,Authentication,A
+OS001,3,Linux is a(n) … operating system,Open source  ,Microsoft ,Windows,Mac,Open source  ,A
+OS001,4,The memory which allocates space for DOS and application is called,Cache memory,Conventional memory,Expanded memory,Virtual memory ,Conventional memory,A
+OS001,5,The operating system creates … from the physical computer,Virtual space ,Virtual computer ,Virtual device ,None,Virtual computer,A
+OS001,6,Which command is used to see the version of operating system?,Vol ,Version ,Ver ,None of the above,Ver ,A
+OS001,7,Which type of command requires additional files to perform specific operations?,Internal commands ,External commands ,Valuable commands ,Primary commands,External commands ,A
+OS001,8,Which command is used to undelete a bunch of files with extension .doc that you have just deleted?,Undelete ,Undelete/all ,Undelete *.doc ,All of above,Undelete *.doc ,A
+OS001,9,The Banker’s algorithm is used,to rectify deadlock ,to detect deadlock ,to prevent deadlock ,to slove deadlock,to prevent deadlock ,A
+OS001,10,The primary purpose of an operating system is:,To make the most efficient use of the computer hardware,To allow people to use the computer,To keep systems programmers employed,To make computers easier to use,To make the most efficient use of the computer hardware,A
+OS001,11,A page fault occurs when,the Deadlock happens,the Segmentation starts,the page is found in the memory,the page is not found in the memory,the page is not found in the memory,B
+OS001,12,The Basic Input Output System (BIOS) resides in,RAM ,ROM ,The CPU ,Memory Cache,ROM ,B
+OS001,13,Which of the following is/are external commands?,Edit ,Label ,Sys ,All of above,All of above,B
+OS001,14,Which is the layer of a computer system between the hardware and the user program,Operating environment ,Operating system ,System environment ,None,Operating system,B
+OS001,15,Which of the following do not belong to queues for processes?,Ready Queue,PCB queue,Device Queue,Job Queue,PCB queue,B
+OS001,16,To enable a process to wait within the monitor,condition variable must be declared as condition,condition variables must be used as boolean objects,semaphore must be used,all of these,a condition variable must be declared as condition,B
+OS001,17,Which one of the following is a synchronization tool?,socket,semaphore,pipe,thread,semaphore,B
+OS001,18,Process synchronization can be done on,hardware level,software level,both hardware and software level,none of these,both hardware and software level,B
+OS001,19,The request and release of resources are __,command line statements,interrupts,system calls,special programs,system calls,B
+OS001,20,For a deadlock to arise which of the following conditions must hold simultaneously?,Mutual exclusion,No preemption,Hold and wait,All of the mentioned,All of the mentioned,B
+OS001,21,In priority scheduling algorithm when a process arrives at the ready queue its priority is compared with the priority of,all process,currently running process,parent process,init process,currently running process,C
+OS001,22,The following three conditions must be satisfied to solve the critical section problem :,Mutual Exclusion,Progress,Bounded Waiting,All of these,All of these,C
+OS001,23,When the process issues an I/O request :,It is placed in an I/O queue,It is placed in a waiting queue,It is placed in the ready queue,It is placed in the Job queue,It is placed in an I/O queue,C
+OS001,24,Concurrent access to shared data may result in :,data consistency,data insecurity,data inconsistency,none of these,data inconsistency,C
+OS001,25,A system is in a safe state only if there exists a :,safe allocation,safe resource,safe sequence,all of the mentioned,safe sequence,C
+OS001,26,If the wait for graph contains a cycle :,then a deadlock does not exist,then a deadlock exists,then the system is in a safe state,either deadlock exists or system is in a safe state,then a deadlock exists,C
+OS001,27,Dynamic loading is :,loading multiple routines dynamically,loading a routine only when it is called,loading multiple routines randomly,none of the mentioned,loading a routine only when it is called,C
+OS001,28,The bounded buffer problem is also known as :,Readers – Writers problem,Dining – Philosophers problem,Producer – Consumer problem,None of these,Producer – Consumer problem,C
+OS001,29,The ___________ must design and program the overlay structure.,programmer,system architect,system designer,none of the mentioned,programmer,C
+OS001,30,Binding of instructions and data to memory addresses can be done at :,Compile time,Load time,Execution time,All of the mentioned,All of the mentioned,C
